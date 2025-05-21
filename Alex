@@ -12,10 +12,7 @@
     <script type="module" src="script.js"></script>
   </head>
   <body>
-    <nav>
-      <a href="/" aria-current="page">Home</a>
-      <a href="/page2.html">Other page</a>
-    </nav>
+   
     <main>
       <h1>My name is Alejandro Zenteno, I like football, my favorite team is Barcelona and in the mexican league I like pumas. I used to swim and my hobby is playing video games and when I can’t play video games I usually play football in my backyard.
       </h1>
